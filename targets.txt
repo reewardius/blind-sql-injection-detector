@@ -1,0 +1,6 @@
+http://testphp.vulnweb.com/index.php
+http://testphp.vulnweb.com/artists.php?artist=1
+http://testphp.vulnweb.com/userinfo.php
+http://testphp.vulnweb.com/cart.php
+http://testphp.vulnweb.com/comment.php?aid=2
+testphp.vulnweb.com/listproducts.php?cat=1
